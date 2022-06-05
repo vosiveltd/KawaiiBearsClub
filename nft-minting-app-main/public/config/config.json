@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAeec566896343F355e9eA4D6688D99BA7054d71A",
+  "SCAN_LINK": "https://polygonscan.com/address/0xaeec566896343f355e9ea4d6688d99ba7054d71a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Kawaii Bears Club Alpha",
+  "SYMBOL": "KBCA",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 1000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kawaii-bears-club-alpha",
+  "SHOW_BACKGROUND": true
+}
